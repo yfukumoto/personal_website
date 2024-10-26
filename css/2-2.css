@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+body {
+	background-color:#b22d35;
+}
+
+.pagebody {
+	width:900px;
+	background-color:#fff;
+	padding:10px;
+	margin:0 auto;
+}
