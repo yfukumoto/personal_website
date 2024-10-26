@@ -3,7 +3,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	font-family: "メイリオ", Meiryo, "ＭＳ Ｐゴシック", Osaka, sans-serif;
+	font-family: "メイリオ", Meiryo, "ＭＳＰゴシック", Osaka, sans-serif;
 	color: #666;
 }
 h1 {
@@ -36,6 +36,10 @@ address {
 a {
 	color: #4A24FF; /*リンクの文字フォント*/
 	text-decoration: none;
+}
+t {
+font-family: 'Hiragino Kaku Gothic ProN';
+font-style: italic;
 }
 /*.article p img {
 	background-color: #fff;
