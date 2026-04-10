@@ -24,6 +24,7 @@ p {
 	margin: 0;
 	font-size: 90%;
 	line-height: 1.6;
+        text-align: justify;
 }	
 .bottom_space {
   margin-bottom: 1.0em;
@@ -41,6 +42,10 @@ t {
 font-family: 'Hiragino Kaku Gothic ProN';
 font-style: italic;
 }
+li {
+text-align: justify;
+}
+
 /*.article p img {
 	background-color: #fff;
 	padding: 5px;
